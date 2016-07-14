@@ -5,7 +5,7 @@ A library for fetching the current trending repositories on GitHub.
 ## API
 
 ```sh
-$ npm install --save github-trending
+$ npm install --save 70-10/github-trending
 ```
 
 ### Trending repositories (all languages)
